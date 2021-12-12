@@ -1,4 +1,4 @@
-# xylophone
+# Dicee
 
 A new Flutter project.
 
